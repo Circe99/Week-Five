@@ -21,7 +21,7 @@
 
 # RStudio Taken to the Next Level!
 
-  Not going to lie, these graphs are super cool and I have no clue how to recreate them with the Graveyard Project data. But nonetheless I will try at leat try the 3D one cause it was by far my favourite. Here is the one provided by Dr.Graham ![Image](3D_Graph.png)
+  Not going to lie, these graphs are super cool and I have no clue how to recreate them with the Graveyard Project data. But nonetheless I will try at least try the 3D one because it was by far my favourite. Here is the one provided by Dr.Graham ![Image](3D_Graph.png)
   
   My attempt will be coping the [code](https://github.com/Circe99/Week-Five/new/main) and filling in the parts I need. As I suspected, I was unable to get the graph I wanted. The first error message I got was: ![Image](RStudio_Error.png)
   
