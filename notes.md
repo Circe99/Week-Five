@@ -16,6 +16,8 @@
   
   Overall I don;t have too much to say in terms of using RStudio, it was pretty straightforward. However, I will say the data we collected it very weirdly organized/labelled/missing info, so it was hard to make graphs that made sense. I had wanted to do one on the material, but because the responces were umbers instead of words I didn't think the graph would be as easilly legible. 
   ![Image](Material_Piechart.png) ![Image](Material_Bargraph.png)
+  
+  As you can see these charts harder to read because there is no legend to tell us what the numbers mean. So I would have to provide the sheets that we based our data submition on.
 
 # Databases
 
