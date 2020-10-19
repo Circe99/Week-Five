@@ -8,6 +8,6 @@
  
   I'm going to be honest, this was extremely frustrating to read, but I still enjoyed it because (I believe) it did exactly what it was meant to. Bring awarness to the issue. 
 
-# Ontologies  of  the  Future  and  Interfacesfor  All:  Archaeological  Databasesfor  the  Twenty-First  Century
+
 
   
