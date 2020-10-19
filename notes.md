@@ -2,7 +2,9 @@
 
   No issues with R, every graphs loaded without any issues at all. ![Image](Tene_Piechart.png) ![Image](Tene_Bargraph.png) ![Image](Pithouse_Bargraph.png)
   
-  I played with the code to make my own graphs using our Graveyard Project data which you can find [here](https://github.com/Circe99/Week-Five/blob/main/R-code). First I did two graphs for data on the denomination because I was curious to see what was most common/how many people were able to answer this one (since my answers were based on what my friend told me and he works there). ![Image](Deno_Piechart.png) ![Image](Deno_Bargraph.png)
+  I played with the code to make my own graphs using our Graveyard Project data which you can find [here](https://github.com/Circe99/Week-Five/blob/main/R-code). 
+  
+  First I did two graphs for data on the denomination because I was curious to see what was most common/how many people were able to answer this one (since my answers were based on what my friend told me and he works there). ![Image](Deno_Piechart.png) ![Image](Deno_Bargraph.png)
   
   Then I decided to make the same two graphs using data for the Date of Monument ![Image](Date_Piechart.png) ![Image](Date_Bargraph.png)
   
