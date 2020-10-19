@@ -10,47 +10,45 @@ View(graveyards)
 # Now... explore. Use the image export to export any graphs you make; copy any interesting results to a new
 # markdown file, and place everything in your repo for this week.
 
-# We're interested in the variable "Coils"
+
 (grave_Deno <- table(graveyards$Denomination))
 
 # First we'll make a pie chart of the number of coils. We'll include a main title and title our variable.
 pie(grave_Deno, main="The Graveyard Project", xlab="Type of Denomination", clockwise=TRUE)
-# Beautiful! Remember to export the graph as image and upload it to your GitHub.
+
 
 # Let's compare it to a barplot of the same data.
 barplot(grave_Deno, main="The Graveyard Project", xlab="Type of Denomination", ylab="Amount of Gravestones")
-# Export that graph, as well. Which way to visualize the data is more helpful?
 
-# We're interested in the variable "Coils"
+
+
 (grave_Deno <- table(graveyards$Date.of.monument))
 
 # First we'll make a pie chart of the number of coils. We'll include a main title and title our variable.
 pie(grave_Deno, main="The Graveyard Project", xlab="Date", clockwise=TRUE)
-# Beautiful! Remember to export the graph as image and upload it to your GitHub.
+
 
 # Let's compare it to a barplot of the same data.
 barplot(grave_Deno, main="The Graveyard Project", xlab="Date", ylab="Amount of Gravestones")
-# Export that graph, as well. Which way to visualize the data is more helpful?
 
-# We're interested in the variable "Coils"
+
 (grave_Deno <- table(graveyards$If.there.is.a.quote..the.nature.of.the.quote))
 
 # First we'll make a pie chart of the number of coils. We'll include a main title and title our variable.
 pie(grave_Deno, main="The Graveyard Project", xlab="Type of Quotes", clockwise=TRUE)
-# Beautiful! Remember to export the graph as image and upload it to your GitHub.
+
 
 # Let's compare it to a barplot of the same data.
 barplot(grave_Deno, main="The Graveyard Project", xlab="Type of Quotes", ylab="Amount of Gravestones")
-# Export that graph, as well. Which way to visualize the data is more helpful?
 
-# We're interested in the variable "Coils"
+
 (grave_Deno <- table(graveyards$Materials.of.monument))
 
 # First we'll make a pie chart of the number of coils. We'll include a main title and title our variable.
 pie(grave_Deno, main="The Graveyard Project", xlab="Type of Material", clockwise=TRUE)
-# Beautiful! Remember to export the graph as image and upload it to your GitHub.
+
 
 # Let's compare it to a barplot of the same data.
 barplot(grave_Deno, main="The Graveyard Project", xlab="Type of Material", ylab="Amount of Gravestones")
-# Export that graph, as well. Which way to visualize the data is more helpful?
+
 
