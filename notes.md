@@ -19,10 +19,5 @@
   
   As you can see these charts harder to read because there is no legend to tell us what the numbers mean. So I would have to provide the sheets that we based our data submition on.
 
-# Databases
-
-  
-
-# KoBoToolbox
 
   
