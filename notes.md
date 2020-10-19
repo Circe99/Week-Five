@@ -1,8 +1,8 @@
 # Basic Stats in R
 
-  No issues with R, every grapf loaded without any issues at all. (add the graphs here)
+  No issues with R, every graphs loaded without any issues at all. (add the graphs here)
   
-  I played with the code to make my own graphs using our Graveyard Project data which you can find here (add it later). First I did two graphs for data on the denomination becuase I was curious to see what was most common/how many people were able to answer this one (since my answers were based on what my friend told me and he works there). (add images)
+  I played with the code to make my own graphs using our Graveyard Project data which you can find [here](https://github.com/Circe99/Week-Five/blob/main/R-code). First I did two graphs for data on the denomination becuase I was curious to see what was most common/how many people were able to answer this one (since my answers were based on what my friend told me and he works there). (add images)
   
   Then I decided to make the same two graphs using data for the Date of Monument (add in later) 
   
